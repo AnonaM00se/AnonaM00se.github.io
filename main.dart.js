@@ -82601,10 +82601,10 @@ j=$.jS
 i=A.a7(j).i("ae<1,aF<o,I>>")
 h=A.as(new A.ae(j,new A.aiz(),i),!0,i.i("bt.E"))
 q=3
-n="https://script.google.com/macros/s/AKfycbwcXrZqz7xO8Xy1TMwreIKk7ptwC3sTi9-IxRxZV-DBqbF5l0LdpfEu29z7lw8LDpWq/exec"
+n="https://script.google.com/macros/s/AKfycbx7hyQI8GaZq5rU4DijidXSnjWdoFqhh26i7XLCe38blHsg4R92tzd8Hs42Bj938OGpJw/exec"
 j=t.N
 s=6
-return A.T(A.aMs(A.kT(A.h(n),0,null),B.by.Rk(A.aw(["spreadsheetId","1n2EMCzDwzDrmtmuaAlEicDljt8KTAHQH0k8rskmnJK4","email",k,"guestsData",h],j,t.K),null),A.aw(["Content-Type","application/json"],j,j)),$async$ww)
+return A.T(A.aMs(A.kT(A.h(n),0,null),B.by.Rk(A.aw(["spreadsheetId","1n2EMCzDwzDrmtmuaAlEicDljt8KTAHQH0k8rskmnJK4","email",k,"guestsData",h],j,t.K),null),A.aw(["Content-Type","text/plain;charset=utf-8"],j,j)),$async$ww)
 case 6:j=o.c
 j.toString
 A.ay4(new A.aiA(),j,t.z)
