@@ -3,11 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "8c6e002279407c8c1a285a0d5d519288",
-"assets/AssetManifest.bin.json": "06873735656b90c6cc88dc9c4d50cde1",
-"assets/AssetManifest.json": "d5b1d29b159740e292ac3cf700ee7b60",
-"assets/AssetManifest.smcbin": "d57ab6fe6aa77d59c49bc4bfe184f48a",
+const RESOURCES = {"assets/AssetManifest.bin": "c3d04801bdc63f0b80a30d0be0a147b0",
+"assets/AssetManifest.bin.json": "1143a9e3b037e5d23c8e0ca149093066",
+"assets/AssetManifest.json": "c56535a6bc6829d1b38cf440e20df01f",
 "assets/assets/fonts/DancingScript-VariableFont_wght.ttf": "d58bb592345e95e81157b07c2db7bc00",
+"assets/assets/fonts/Forum-Regular.ttf": "6ca25d5c8e19ff749003734658816b42",
+"assets/assets/fonts/PinyonScript-Regular.ttf": "c53b60da0010fe5f8809ab053b2a08e3",
 "assets/assets/images/BadgersWedding.jpg": "45f45c59ee424bea8d34bcaf4e5cc3d0",
 "assets/assets/images/BeauxBells.png": "8a1bf4147c86aa3b7d5a7dd004a198f2",
 "assets/assets/images/CandS.jpg": "25b70907c22836e1d91f9a2082af745d",
@@ -17,7 +18,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "8c6e002279407c8c1a285a0d5d519288
 "assets/assets/images/theof.png": "66b1af3e22b56e207e4f0f273b51a0be",
 "assets/assets/images/theof.svg": "7599270d4f97234d57560b202a68f1f7",
 "assets/assets/images/tort.jpg": "79c4337b86ad20c49497f414309c6a3c",
-"assets/FontManifest.json": "76f544867bebc45f974222da94255a21",
+"assets/FontManifest.json": "8641a436dd0d04ca612983986ac8a0b2",
 "assets/fonts/MaterialIcons-Regular.otf": "5e8227e42765ca50cb349f778c317128",
 "assets/NOTICES": "ad93942f95b4f402ade130229d300976",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
@@ -36,9 +37,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "8c6e002279407c8c1a285a0d5d519288
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "f8a8005b42717f7d00c95b1a9239ea10",
-"/": "f8a8005b42717f7d00c95b1a9239ea10",
-"main.dart.js": "6439ffe5a0f1d0d1581c0ed556511e22",
+"index.html": "8216f9e608f01d7bc36bf42af77c93d6",
+"/": "8216f9e608f01d7bc36bf42af77c93d6",
+"main.dart.js": "daae34d2230474168e4e0557677176ce",
 "manifest.json": "1459ab07de0eef5b9bcb8a4d18c9e9f0",
 "version.json": "a532dec2c337db2165c36d7aaef3ad2f"};
 // The application shell files that are downloaded before a service worker can
